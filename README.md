@@ -22,4 +22,4 @@ remotes::install_github("rstudio/renv")
 
 - [Follow the instructions to enable Travis CI](https://rstudio.github.io/shinytest/articles/ci.html)
 - Push code changes to run a Travis build
-- [Add a Travis build status badge to the README file](https://docs.travis-ci.com/user/status-images/
+- [Add a Travis build status badge to the README file](https://docs.travis-ci.com/user/status-images/)
