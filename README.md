@@ -1,5 +1,7 @@
 # `shinytest` Template 
 
+This template is based on [this awesome shinytest vignette](https://rstudio.github.io/shinytest/articles/ci.html) - (Updated to use `renv` instead of `packrat`).
+
 ## Configuration Steps 
 
 - Use this template to create a new repository
